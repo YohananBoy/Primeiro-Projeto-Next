@@ -6,9 +6,7 @@ export default function Tailwind() {
     <html>
       <body className="flex min-h-svh flex-col">
         <header className="flex h-full w-full flex-col items-center justify-center gap-10">
-          <h1 className="border-2 border-solid border-black text-8xl">
-            Testano Css
-          </h1>
+          <h1 className="text-8xl">Testano Css</h1>
           <Menu></Menu>
         </header>
         <hr className="my-5" />
